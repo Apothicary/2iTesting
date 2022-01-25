@@ -4,7 +4,6 @@ public class programmingAssignment {
 
 	public static void main(String[] args) {
 		
-		int answer =0;
 		// This will get the input of the A and X variables from the user via Scanner
 		 Scanner userInput = new Scanner(System.in);
 		 System.out.println("Please enter the value of A: ");
